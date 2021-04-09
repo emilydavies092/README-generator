@@ -1,11 +1,11 @@
 
 # README-generator
 UNC README Homework #9
-[README Generator]( )
-![GitHub License]()
+[README Generator](https://drive.google.com/file/d/1rdRzCKyqZqrM5P_m_u0iMjZdBm02_91Q/view?usp=sharing)
+
 ### Table of Contents:
 * [Description](#description)
-* [Install](#install)
+* [Installation](#install)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -13,18 +13,18 @@ UNC README Homework #9
 * [Questions](#questions)
 * [Credits](#credits)
 ### Description: 
-Custom README generator
+A custom README generator for projects
 ### Installation: 
 To install neccessary dependencies, please run the following command:
 ```
 npm i inquirer
 ```
 ### Usage: 
-Acquire via npm
+Upload the inquirer package via npm
 ### License: 
 This project is licensed under the Apache 2.0 license 
 ### Contributing: 
-Refer to questions for seeking approval
+Refer to questions for approval
 ### Tests: 
 To run tests, please run the following command:
 ```
@@ -32,7 +32,6 @@ undefined
 ```
 ### Questions: 
 If you have any issues about the repo, please contact me via email at emily.davies7@gmail.com
-
 You can find more of my work at emilydavies092
 ### Credits: 
 npm inquirer
