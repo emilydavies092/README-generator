@@ -5,7 +5,7 @@ UNC README Homework #9
 ![GitHub License]()
 ### Table of Contents:
 * [Description](#description)
-* [Installation](#install)
+* [Install](#install)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -32,6 +32,7 @@ undefined
 ```
 ### Questions: 
 If you have any issues about the repo, please contact me via email at emily.davies7@gmail.com
+
 You can find more of my work at emilydavies092
 ### Credits: 
 npm inquirer
