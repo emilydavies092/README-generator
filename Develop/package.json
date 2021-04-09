@@ -1,5 +1,5 @@
 {
-  "name": "custom-readme-generator",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "Using terminal commands, the user can generate a customized README file for projects.",
   "main": "index.js",
