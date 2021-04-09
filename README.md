@@ -1,7 +1,7 @@
 
 # README-generator
 UNC README Homework #9
-[README Generator](https://drive.google.com/file/d/1rdRzCKyqZqrM5P_m_u0iMjZdBm02_91Q/view?usp=sharing)
+[README Generator Demonstration](https://drive.google.com/file/d/1rdRzCKyqZqrM5P_m_u0iMjZdBm02_91Q/view?usp=sharing)
 
 ### Table of Contents:
 * [Description](#description)
@@ -28,7 +28,7 @@ Refer to questions for approval
 ### Tests: 
 To run tests, please run the following command:
 ```
-undefined
+node index.js
 ```
 ### Questions: 
 If you have any issues about the repo, please contact me via email at emily.davies7@gmail.com
